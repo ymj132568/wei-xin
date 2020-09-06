@@ -2,7 +2,6 @@
 Page({
   data: {
     userinfo:{},
-    // 被收藏的商品的数量
     collectNums:0
   },
   onShow(){
